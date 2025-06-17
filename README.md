@@ -16,6 +16,17 @@ I'm a data science and AI enthusiast passionate about solving real-world problem
 📱 Working on mobile and backend systems using Flutter, FastAPI, and FaceNet for real-time recognition & data syncing.
 
 
+# 🧑‍💻 Skills & Technologies
+
+•Programming Languages: Python (Intermediate), MySQL (Naive)
+
+•AI & ML: Deep Learning, EDA, Feature Engineering, Clustering, Computer Vision, NLP, LLMs, Generative AI
+
+•Libraries & Frameworks: TensorFlow, Keras, Scikit-Learn, Pandas, OpenCV, Flask
+
+•Development & Deployment Concepts: Data Structure Algorithm, DBMS, Render
+
+
 # 📌 Featured Projects
 
 [🔗 Multimodal Fake News Detection](https://github.com/AbhaySingh032/Multimodal-Fake-news-detection)
@@ -33,9 +44,11 @@ I'm a data science and AI enthusiast passionate about solving real-world problem
 
 # 🌱 I’m currently exploring:
 
-Efficient fine-tuning of domain-specific LLMs
+Developing expertise in Machine Learning, Deep Learning and Reinforcement Learning.
 
-AI agents + retrieval-augmented generation (RAG)
+Building projects to enhance my understanding of the practical applications of AI.
+
+Actively learning about the latest trends in AI/ML and data-driven technologies.
 
 
 # 🤝 Connect with Me
