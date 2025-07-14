@@ -57,6 +57,8 @@ Actively learning about the latest trends in AI/ML and data-driven technologies.
 
 [GitHub](https://github.com/AbhaySingh032/AbhaySingh032)
 
+[Portfolio](https://theabhayverse.netlify.app)
+
 [Email](rabhay032@gmail.com)
 
 
